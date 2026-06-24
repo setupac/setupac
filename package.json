@@ -1,0 +1,10 @@
+{
+    "name": "setupac",
+    "version": "0.0.1",
+    "description": "Convert desktop applications into installers",
+    "main": "index.js",
+    "bin": {
+        "setupac": "./bin/setupac.js"
+    },
+    "license": "MIT"
+}
