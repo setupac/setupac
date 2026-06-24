@@ -1,10 +1,14 @@
 {
-    "name": "setupac",
+    "name": "@setupac/setupac",
     "version": "0.0.1",
     "description": "Convert desktop applications into installers",
     "main": "index.js",
     "bin": {
         "setupac": "./bin/setupac.js"
+    },
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/setupac/setupac.git"
     },
     "license": "MIT"
 }
